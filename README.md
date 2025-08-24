@@ -1,7 +1,9 @@
 # Mirrors!
 Mirrors of various open source digital goods, mostly hard to get or whose sources have disappeared
 
-### gbdfed-1.6.tar.bz2: Source code for gbdfed v1.6 by Mark Leisher.
+### [gbdfed-1.6.tar.bz2](https://github.com/anknetau/mirrors/blob/main/gbdfed-1.6.tar.bz2)
+
+Source code for gbdfed v1.6 by Mark Leisher. License: MIT.
 
 Used to be in http://sofia.nmsu.edu/~mleisher/Software/gbdfed/ but the source is gone.
 
